@@ -124,12 +124,12 @@ Diserahkan setelah seluruh phase MVP selesai dan diterima:
 | Phase | Durasi | Fokus |
 |-------|--------|-------|
 | Phase 1 — Core System | 2 bulan | Auth, admin panel, audit log |
-| Phase 2 — Survey Designer | 6–7 bulan | Questionnaire builder, logic, quota, publish |
+| Phase 2 — Survey Designer | 6–8 bulan | Questionnaire builder, logic, quota, publish |
 | Phase 3 — Survey Portal | 3–4 bulan | Panelist, eligibility, insentif |
 | Phase 4 — Analytics & Disbursement | 2–3 bulan | Analytics, export, Xendit |
 | Phase 5 — Fraud Detection | 2 bulan | Fraud detection, audit log survei |
 | **Total MVP (Phase 1–5)** | **15–18 bulan** | **🚀 MVP Release** |
-| Post-MVP | 2 bulan | Question types, client dashboard, notifikasi, import survey, template, multi-language |
+| Post-MVP | 4 bulan | Question types, client dashboard, notifikasi, import survey, template, multi-language |
 
 ---
 
