@@ -226,28 +226,24 @@ Tersedia dua tipe export dalam format CSV:
 
 ## Post-MVP
 
-Fitur-fitur berikut tidak masuk scope MVP, dan akan dikerjakan setelah platform MVP berjalan stabil (~2 bulan). Urutan prioritas akan ditentukan bersama setelah MVP delivered.
+Fitur-fitur berikut tidak masuk scope MVP, dan akan dikerjakan setelah platform MVP berjalan stabil (~4 bulan). Urutan fase di bawah sudah mencerminkan urutan pengerjaan yang direkomendasikan.
 
-### 1. Question Types Lanjutan
+### 1. Question Types Lanjutan & Notifikasi
 - Auto-complete appearance untuk SA dan MA
 - Grid question types: GRID_SA, GRID_MA, GRID_OE, GRID_NUMBER
+Sistem notifikasi untuk seluruh role — definisi trigger, channel (in-app, email, push), dan target penerima akan ditentukan setelah platform MVP berjalan.
 
-### 2. Client Dashboard (extension dari Survey Designer)
+### 2. Import Survey & Template Library
+- Import struktur survei d
+- Admin dapat membuat global template yang visible ke semua client
+- Client dapat menyimpan survei sebagai private template, hanya visible di workspace sendiri
+- Template dapat digunakan sebagai starting point saat membuat survei baru
+
+### 3. Client Dashboard (extension dari Survey Designer)
 Fitur kustomisasi analytics lanjutan — dikembangkan sebagai extension dari Survey Designer setelah MVP stabil:
 - **Dashboard builder** — kustomisasi layout widget per survei (drag-and-drop), tambah, hapus, dan resize widget secara bebas
 - **Crosstab analysis** — analisis silang antara dua pertanyaan; hasil ditampilkan dalam bentuk tabel matrix
 - **NPS, Top2Box, dan Mean** — client men-tag pertanyaan mana yang dihitung, system kalkulasi otomatis berdasarkan tag tersebut
 
-### 3. Notifikasi
-Sistem notifikasi untuk seluruh role — definisi trigger, channel (in-app, email, push), dan target penerima akan ditentukan setelah platform MVP berjalan.
-
-### 4. Import Survey
-- Import struktur survei dari file eksternal ke dalam platform
-
-### 5. Template Library
-- Admin dapat membuat global template yang visible ke semua client
-- Client dapat menyimpan survei sebagai private template, hanya visible di workspace sendiri
-- Template dapat digunakan sebagai starting point saat membuat survei baru
-
-### 6. Multi-language Support
+### 4. Multi-language Support
 - Admin dan Client dapat menambahkan konten survei dalam beberapa bahasa; UI aplikasi menggunakan English only
