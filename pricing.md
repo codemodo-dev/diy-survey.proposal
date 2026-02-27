@@ -21,7 +21,7 @@ Tim terdiri dari 3 role dengan kapasitas masing-masing 4 jam/hari (part-time).
 
 Harga tetap per phase dengan 3 role (Backend, Frontend, Designer). Perubahan scope di luar SOW dikenakan biaya tambahan. Acceptance period 14 hari kerja setelah setiap delivery — jika tidak ada feedback tertulis dalam periode tersebut, dianggap approved dan termin berikutnya wajib dibayarkan.
 
-**Catatan durasi:** Kolom durasi menampilkan estimasi minimum–maksimum. Harga yang tercantum dihitung berdasarkan durasi minimum. Jika pengerjaan mencapai upper bound, **harga tetap sama dan tidak berubah** — ini adalah keunggulan model beli putus.
+**Catatan durasi:** Kolom durasi menampilkan estimasi minimum–maksimum. Harga yang tercantum dihitung berdasarkan durasi minimum. Jika pengerjaan mencapai upper bound, **harga tetap sama dan tidak berubah**.
 
 | Phase | Estimasi Durasi | Dasar Perhitungan | Backend | Frontend | Designer | Total |
 |-------|----------------|-------------------|---------|----------|----------|-------|
@@ -62,7 +62,7 @@ Post-MVP dikerjakan setelah MVP berjalan stabil dan diterima client. Urutan prio
 
 ## Tipe 2 — Retainer / Part-Time Bulanan
 
-Bayar per bulan dengan 3 role (Backend, Frontend, Designer). Scope fleksibel — prioritas dan arah pengerjaan dapat disesuaikan setiap bulan. Pembayaran dilakukan setiap awal bulan di muka dengan kontrak minimum 3 bulan. Total biaya bergantung pada durasi aktual pengerjaan.
+Bayar per bulan dengan 3 role (Backend, Frontend, Designer). Scope fleksibel — prioritas dan arah pengerjaan dapat disesuaikan setiap bulan. Pembayaran dilakukan setiap awal bulan di muka. Total biaya bergantung pada durasi aktual pengerjaan.
 
 | Role | Per Bulan |
 |------|-----------|
