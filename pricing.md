@@ -26,7 +26,7 @@ Harga tetap per phase dengan 3 role (Backend, Frontend, Designer). Perubahan sco
 | Phase | Estimasi Durasi | Dasar Perhitungan | Backend | Frontend | Designer | Total |
 |-------|----------------|-------------------|---------|----------|----------|-------|
 | Phase 1 — Core System | 2 bln | 2 bln | Rp 20 jt | Rp 20 jt | Rp 12 jt | **Rp 52.000.000** |
-| Phase 2 — Survey Designer | 6–7 bln | 6 bln | Rp 60 jt | Rp 60 jt | Rp 36 jt | **Rp 156.000.000** |
+| Phase 2 — Survey Designer | 6–8 bln | 6 bln | Rp 60 jt | Rp 60 jt | Rp 36 jt | **Rp 156.000.000** |
 | Phase 3 — Survey Portal | 3–4 bln | 3 bln | Rp 30 jt | Rp 30 jt | Rp 18 jt | **Rp 78.000.000** |
 | Phase 4 — Analytics & Disbursement | 2–3 bln | 2 bln | Rp 20 jt | Rp 20 jt | Rp 12 jt | **Rp 52.000.000** |
 | Phase 5 — Fraud Detection | 2 bln | 2 bln | Rp 20 jt | Rp 20 jt | Rp 12 jt | **Rp 52.000.000** |
@@ -44,19 +44,23 @@ Harga tetap per phase dengan 3 role (Backend, Frontend, Designer). Perubahan sco
 
 ### Post-MVP (Opsional, setelah MVP stabil)
 
-Post-MVP dikerjakan setelah MVP berjalan stabil dan diterima client. Urutan prioritas fitur ditentukan bersama sebelum pengerjaan dimulai. Acceptance period 14 hari kerja berlaku sama seperti MVP.
+Post-MVP dikerjakan setelah MVP berjalan stabil. Acceptance period 14 hari kerja berlaku sama seperti MVP. Urutan fase di bawah sudah mencerminkan urutan pengerjaan yang direkomendasikan.
+
 
 | Phase | Estimasi Durasi | Dasar Perhitungan | Backend | Frontend | Designer | Total |
 |-------|----------------|-------------------|---------|----------|----------|-------|
-| Post-MVP | ~2 bln | 2 bln | Rp 20 jt | Rp 20 jt | Rp 12 jt | **Rp 52.000.000** |
+| Post-MVP Phase 1 — Question Types & Notifikasi | 1 bln | 1 bln | Rp 10 jt | Rp 10 jt | Rp 6 jt | **Rp 26.000.000** |
+| Post-MVP Phase 2 — Import Survey & Template Library | 1 bln | 1 bln | Rp 10 jt | Rp 10 jt | Rp 6 jt | **Rp 26.000.000** |
+| Post-MVP Phase 3 — Client Dashboard & Multi-language | 2 bln | 2 bln | Rp 20 jt | Rp 20 jt | Rp 12 jt | **Rp 52.000.000** |
+| **Total Post-MVP** | **~4 bln** | **4 bln** | Rp 40 jt | Rp 40 jt | Rp 24 jt | **Rp 104.000.000** |
 
 ### Struktur Pembayaran — Post-MVP
 
 | Termin | % | Nominal | Timing |
 |--------|---|---------|--------|
-| DP | 50% | Rp 26.000.000 | Kontrak Post-MVP ditandatangani, sebelum mulai kerja |
-| Termin 2 | 50% | Rp 26.000.000 | Post-MVP delivered & acceptance sign-off |
-| **Total** | **100%** | **Rp 52.000.000** | |
+| DP Post-MVP | 50% | Rp 52.000.000 | Kontrak Post-MVP ditandatangani, sebelum mulai pengerjaan |
+| Termin 2 | 50% | Rp 52.000.000 | Seluruh Post-MVP delivered & acceptance sign-off |
+| **Total** | **100%** | **Rp 104.000.000** | |
 
 ---
 
@@ -79,6 +83,6 @@ Bayar per bulan dengan 3 role (Backend, Frontend, Designer). Scope fleksibel —
 |--|-----------------|----------------------|---------|
 | Harga/bulan | Rp 26.000.000 | Rp 26.000.000 | Rp 32.000.000 |
 | Total | Rp 390.000.000 | Rp 52.000.000 | Tergantung durasi aktual |
-| Durasi | 15–18 bulan | ~2 bulan | Tergantung durasi aktual |
+| Durasi | 15–18 bulan | ~4 bulan | Tergantung durasi aktual |
 | Scope | Phase 1–5 | Fitur Post-MVP | Fleksibel, dapat berubah |
 | Fleksibilitas revisi | Terbatas | Terbatas | Lebih bebas |
